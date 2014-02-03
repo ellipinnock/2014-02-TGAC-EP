@@ -1,5 +1,5 @@
 Title
-Author: Elli P:
+Author: Elli P, add new author
 Introduction:
 New and exciting stuff
 Data:
