@@ -1,10 +1,11 @@
-Title
-Author: Elli P:
+Title: DOesn't have a title yet
+Author: Elli P, AN Other Author
 Introduction:
 New and exciting stuff
 Data:
-no data
-Conclusion
-References
+Add new data
+Conclusion:
+No conclusions
+References:
 Refs from common ref list
 Ref, ref, ref
