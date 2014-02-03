@@ -1,5 +1,5 @@
-Title: DOesn't have a title yet
-Author: Elli P, AN Other Author
+Title: Has a definite title
+Author: Elli, Collaborator, Supervisor
 Introduction:
 New and exciting stuff
 Data:
